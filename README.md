@@ -75,12 +75,12 @@ Generated files:
 
 ## 👥 Team
 
-* Member 1 – Data Collection & Dataset Preparation
-* Member 2 – Data Cleaning & Preprocessing
-* Member 3 – News Classification Model
-* Member 4 – Sentiment Analysis Model
-* Member 5 – Summarization & NER
-* Member 6 – Integration & Deployment
+* Mariam Salem – Data Collection & Dataset Preparation
+* Marwa Gohar – Data Cleaning & Preprocessing
+* Shahd Ahmed – News Classification Model
+* Eslam Wael – Sentiment Analysis Model
+* Shrouk Yasser – Summarization & NER
+* Raneem Mohsen – Integration & Deployment
 
 ---
 
