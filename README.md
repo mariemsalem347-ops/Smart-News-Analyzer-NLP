@@ -55,7 +55,7 @@ app/              # Deployment (later)
 
 ---
 
-## 📦 Data Preparation (Member 1)
+## 📦 Data Preparation (Mariam)
 
 Tasks completed:
 
@@ -72,6 +72,26 @@ Generated files:
 * test.csv
 
 ---
+
+**##🧹 Data Cleaning & Preprocessing (Marwa)**
+
+This module prepares the dataset for machine learning by cleaning and transforming the raw text data.
+
+Key Steps:
+
+* Removed missing values and duplicates
+* Normalized text (lowercasing, removing punctuation, URLs, numbers)
+* Tokenization using NLTK
+* Stopword removal
+* Lemmatization using spaCy
+* Reconstructed clean text
+
+Output:
+
+* cleaned_train.csv
+* cleaned_test.csv
+
+The processed data is now ready for feature engineering and model training.
 
 ## 👥 Team
 
